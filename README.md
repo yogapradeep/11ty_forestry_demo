@@ -2,9 +2,7 @@
 
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry CMS](https://forestry.io/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend it for yourself.
 
-Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify] [![Import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=dirtyf/hylia&provider=github&branch=forestry&engine=other&preview=https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60)
+[![Import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=dirtyf/hylia&provider=github&branch=forestry&engine=other&preview=https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60)
 
 <img src="https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60" width="550" />
 
@@ -37,22 +35,6 @@ Hylia version 0.5.1 features:
 
 ---
 
-## Getting started
-
-### Method one: One-Click Deploy to Netlify
-
-You can [deploy Hylia to Netlify with one click][deploy-to-netlify] and you’ll be up and running in minutes!
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify]
-
-I recorded a quick start video of me deploying Hylia to Netlify and getting the CMS set up. [Check it out here](https://youtu.be/0hM_0BH-Y_A).
-
-### Method two: Clone / Fork
-
-1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hylia`
-2. `cd` into the project directory and run `npm install`
-3. Once all the dependencies are installed run `npm start`
-4. Open your browser at `http://localhost:8080` and away you go!
 
 ## Terminal commands
 
@@ -197,4 +179,3 @@ The stuff that I need the most help with is:
 - [Webmentions](https://www.w3.org/TR/webmention/)
 - Performance
 
-[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia
