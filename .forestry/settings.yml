@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: https://api.netlify.com/build_hooks/5ecb70a651f1bcf62c6113ac
+webhook_url: https://api.zeit.co/v1/integrations/deploy/QmQCWKhaD5KTNAF9xWM1uu96EDibWTqnJbJkNNt5pAge9S/bpwy8sLKLL
 sections:
 - type: heading
   label: Content
