@@ -16,3 +16,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/test-post1.md
