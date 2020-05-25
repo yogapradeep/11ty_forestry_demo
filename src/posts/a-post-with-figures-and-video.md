@@ -1,5 +1,5 @@
 ---
-title: A test post for checking preview is working fine are not
+title: 'A test post '
 date: 2019-06-18
 tags:
 - demo-content
