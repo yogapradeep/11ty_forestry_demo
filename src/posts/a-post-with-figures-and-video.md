@@ -1,5 +1,5 @@
 ---
-title: A test post with figures and video
+title: 'A test post '
 date: 2019-06-18
 tags:
 - demo-content
