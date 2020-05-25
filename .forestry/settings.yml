@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: https://11ty-forestry-demo.now.sh/admin
+admin_path: https://11ty-forestry-demo.now.sh/cms
 webhook_url: https://api.zeit.co/v1/integrations/deploy/QmQCWKhaD5KTNAF9xWM1uu96EDibWTqnJbJkNNt5pAge9S/bpwy8sLKLL
 sections:
 - type: heading
